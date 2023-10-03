@@ -4,4 +4,4 @@ We converted this algorithm from matlab coding to python. You could see the orig
 
 OpenBreast repository: https://github.com/spertuz/openbreast/tree/master/density
 
-MAG is located in density folder.
+
